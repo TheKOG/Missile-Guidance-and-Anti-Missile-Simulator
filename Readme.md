@@ -1,5 +1,6 @@
 # 反坦克导弹制导与机枪反导模拟器
 
+![C{U$G}O_X@Y46I40XV%(`CB](https://github.com/TheKOG/Missile-Guidance-and-Anti-Missile-Simulator/assets/42380934/88630c8a-b260-43f1-bc97-d6b31f589a17)
 
 
 ## missile.py: 模拟导弹飞行中的空气力学 以及导弹轨迹规划和微分方程制导
