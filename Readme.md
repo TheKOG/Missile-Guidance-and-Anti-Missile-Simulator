@@ -3,7 +3,7 @@
 ![C{U$G}O_X@Y46I40XV%(`CB](https://github.com/TheKOG/Missile-Guidance-and-Anti-Missile-Simulator/assets/42380934/88630c8a-b260-43f1-bc97-d6b31f589a17)
 
 
-## missile.py: 模拟导弹飞行中的空气力学 以及导弹轨迹规划和微分方程制导
+## missile.py: 模拟导弹飞行中的空气力学 以及导弹弹道规划和微分方程制导
 
 ## analysis.py: 统计分析导弹准确性与制导参数以及弹道攻角的关系, 用于研究提高导弹准确率的方法
 
